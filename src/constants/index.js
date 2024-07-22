@@ -71,18 +71,7 @@ import {
       color: ["#454749", "#3b3b3b", "#181819"],
       img: blackImg,
     },
-    {
-      id: 5,
-      title: "iPhone 15 Pro in blue Jelly",
-      color: ["#000072", "#000098", "#000100"],
-      img: blackImg,
-    },
-    {
-      id: 6,
-      title: "iPhone 15 Pro in Red Chilli",
-      color: ["#ff4122", "#df2c14", "#c61a09"],
-      img: blackImg,
-    },
+
   ];
   
   export const sizes = [
